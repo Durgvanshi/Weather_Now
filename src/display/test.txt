@@ -1,0 +1,18 @@
+ //   <div className="ui fluid action input main">
+    //     <form className="ui form">
+    //       <input
+    //         type="text"
+    //         placeholder="Enter your location.."
+    //       />
+    //       <button
+    //         className="ui animated button fluid"
+    //         tabindex="0"
+    //         type="submit"
+    //       >
+    //         <div className="visible content">GO!</div>
+    //         <div className="hidden content">
+    //           <i className="right arrow icon"></i>
+    //         </div>
+    //       </button>
+    //     </form>
+    //   </div>

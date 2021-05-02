@@ -1,0 +1,18 @@
+.container {
+  margin: 100px 50px 50px;
+  height: 100vh;
+}
+.contact-background-image {
+  background-color: #191970;
+  padding: 50px 0 50px 0;
+  animation: myfirst 2s;
+}
+
+@keyframes myfirst {
+  from {
+    opacity: 0.8;
+  }
+  to {
+    opacity: 1;
+  }
+}
